@@ -1,1 +1,1 @@
-# java-head-first
+# Java Head First Code Exercises
